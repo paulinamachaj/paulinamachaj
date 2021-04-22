@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Paulina
-- 🌱 I’m currently learning HTML, CSS, and javascript
+- 🌱 I’m currently learning HTML, CSS, and Javascript
+- 🖥️ I'm interested in Front-End Development
 
 
 <!---
